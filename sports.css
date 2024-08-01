@@ -1,0 +1,293 @@
+body{
+    background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
+}
+div#gray{
+    position: relative;
+    background-color: rgb(32, 32, 32);
+    width: 1922px;
+    height: 100px;
+    right: 10px;
+    top: -10px;
+}
+.back{
+    position: relative;
+    width: 150px;
+    top: -5px;
+}
+div#black{
+    position: relative;
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    left: 740px;
+    top: -100px;
+    border-radius: 40px 30px;
+}
+.title{
+    position: relative;
+    color: white;
+    left: 50px;
+    top: 20px;
+}
+a{
+    text-decoration: none;
+}
+.barrinhas{
+    position: relative;
+    width: 70px;
+    left: 1675px;
+    top: -20px;
+}
+div#menu{
+    position: relative;
+    background-color:rgb(145, 145, 145);
+    width: 900px;
+    height: 500px;
+    border-radius: 40px 40px;
+    left: 2000px;
+    background-image: url(Imagens/fu\ background.png);
+    background-size: cover;
+
+}
+.Corinthians{
+    position: relative;
+    width: 200px;
+    left: -50px;
+}
+.sscp{
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 40px;
+    top: -50px;
+}
+.rm{
+    position: relative;
+    width: 100px;
+    left: 50px;
+}
+.rmm{
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 35px;
+}
+.Arsenal{
+    position: relative;
+    width: 150px;
+    left: 250px;
+    top: -450px;
+}
+.ar{
+    position: relative;
+    left: 280px;
+    top: -480px;
+    color: rgb(255, 255, 255);
+}
+.miami{
+    position: relative;
+    width: 150px;
+    left: 250px;
+    top: -430px;
+}
+.mi{
+    position: relative;
+    top: -445px;
+    left: 265px;
+    color: rgb(255, 255, 255);
+}
+.bayern{
+    position: relative;
+    width: 140px;
+    left: 500px;
+    top: -890px;
+}
+.by{
+    position: relative;
+    left: 490px;
+    top: -910px;
+    color: rgb(255, 255, 255);
+}
+.boca{
+    position: relative;
+    width: 170px;
+    left: 480px;
+    top: -870px;
+}
+.bj{
+    position: relative;
+    left: 490px;
+    top: -900px;
+    color: rgb(255, 255, 255);
+}
+.setinha{
+    position: relative;
+    width: 50px;
+    left: 850px;
+    top: -50px;
+}
+.lebron{
+    position: relative;
+    left: 300px;
+    top: -1500px;
+    border-radius: 100px 100px;
+}
+.ronaldo{
+    position: relative;
+    left: 300px;
+    top: -1500px;
+    border-radius: 100px 100px;
+}
+.goat{
+    position: relative;
+    color: white;
+    top: -1500px;
+    left: 760px;
+}
+.NBA{
+    position: relative;
+    width: 70px;
+    left: 1500px;
+    top: -20px;
+}
+div#BS{
+    position:relative;
+    width: 900px;
+    height: 500px;
+    background-color: rgb(145, 145, 145);
+    border-radius: 40px 40px;
+    top: -500px;
+    left: 2000px;
+    background-image: url(Imagens/background.png);
+    background-size: cover;
+}
+.BULLS{
+    position: relative;
+    width: 200px;
+    left: -50px;
+}
+.bulls{
+    position: relative;
+    color: rgb(255, 255, 255);
+    left: 25px;
+    top: -10px;
+}
+.knicks{
+    position: relative;
+    width: 200px;
+}
+.kn{
+    position: relative;
+   color:white;
+    left: 20px;
+    top: -10px;
+}
+.rk{
+    position: relative;
+    width: 150px;
+    left: 230px;
+    top: -450px;
+}
+.rkk{
+    position: relative;
+   color:white;
+    left: 230px;
+    top:-500px;
+}
+.cl{
+    position: relative;
+    width: 150px;
+    left: 230px;
+    top: -500px;
+}
+.LA{
+    position: relative;
+    left: 260px;
+   color:white;
+    top: -500px;
+}
+.cel{
+    position: relative;
+    width: 150px;
+    left: 430px;
+    top: -930px;
+}
+.celt{
+    position: relative;
+    left: 460px;
+    top: -940px;
+   color:white;
+}
+.la{
+    position: relative;
+    width: 200px;
+    left: 430px;
+    top: -930px;
+}
+.Lakers{
+    position: relative;
+    left: 490px;
+    top: -930px;
+   color:white;
+}
+.nfl{
+    position: relative;
+    width: 50px;
+    left: 1350px;
+    top: -20px;
+}
+div#NFL{
+    position: relative;
+    width: 900px;
+    height: 500px;
+    background-color: rgb(145, 145, 145);
+    border-radius: 40px 40px;
+    top: -1000px;
+    left: 2000px;
+    background-image: url(Imagens/americanfut.png);
+    background-size: cover;
+}
+.dal{
+    position: relative;
+    width: 150px;
+    left: -50px;
+}
+.cow{
+    position: relative;
+    color: white;
+    left: 10px;
+    top: -20px;
+}
+.eng{
+    position: relative;
+    width: 150px;
+}
+.pat{
+    position: relative;
+    color: white;
+    left: 10px;
+    top: -20px;
+}
+.dl{
+    position: relative;
+    width: 150px;
+    left: 200px;
+    top: -420px;
+}
+.dol{
+    position: relative;
+    left: 200px;
+    top: -460px;
+    color: white;
+}
+.buf{
+    position: relative;
+    width: 150px;
+    left: 200px;
+    top: -420px;
+}
+.bf{
+    position: relative;
+    left: 200px;
+    top: -405px;
+    color: white;
+}

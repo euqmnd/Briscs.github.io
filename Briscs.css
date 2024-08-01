@@ -1,0 +1,396 @@
+div#menu{
+    width: 100px;
+    height:70px ;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    position: relative;
+    left: 10px;
+    top: -80px;
+}
+body{
+    background: rgb(0, 0, 0);
+    height: 894px;
+    overflow-x: hidden;
+}
+.menuimg{
+    width: 50px;
+    position: relative;
+    left: 25px;
+    top: 5px;
+}
+.seta{
+    position: relative;
+    width: 50px;
+    left: 100px;
+    top: -50px;
+    display: none;
+}
+.prof{
+    position: relative;
+    width: 50px;
+    top: 770px;
+    left: 5px;
+}
+.hh{
+    position: relative;
+    left:800px;
+    color: white;
+    top: -140px;
+}
+.back{
+    position: relative;
+    width: 150px;
+    left: -10px;
+    top: 5px;
+    border-radius: 40px 50px;
+}
+.car{
+    position: relative;
+    width: 80px;
+    left: 1650px;
+    top: -10px;
+}
+.blue{
+    position: relative;
+    left: 250px;
+    border-radius: 400px;
+    top: -90px;
+}
+.yellow{
+    position: relative;
+    left: 250px;
+    border-radius: 400px;
+    top: -90px;
+}
+.Brasil{
+    position: relative;
+    color: white;
+    left: 690px;
+    top: -100px;
+}
+.sy{
+    position: relative;
+    width: 200px;
+    left: 785px;
+    top: -350px;
+}
+.cf{
+    position: relative;
+    width: 45px;
+    top: 700px;
+    right: 50px;
+}
+a{
+    text-decoration: none;
+}
+.sport{
+    width: 70px;
+    transition-timing-function: ease;
+    transition-duration: 1s;
+    position: relative;
+    top: -50px;
+    display: none;
+}
+.log{
+    position: relative;
+    color: black;
+    top: 720px;
+    left: 70px;
+}
+.sp{
+    position: relative;
+    color: black;
+    top: -90px;
+    left: 50px;
+    display: none;
+}
+div#white{
+    position: relative;
+    width: 1800px;
+    height: 400px;
+    background-color: white;
+    left: 50px;
+    top: -150px;
+    border-radius: 40px
+}
+.polo{
+    position: relative;
+    width: 200px;
+    left: 200px;
+    top: 100px;
+    border-radius: 400px
+}
+.pl{
+    position: relative;
+    color: black;
+    top: 100px;
+    left: 205px;
+}
+.mais{
+    position: relative;
+    width: 50px;
+    left: 250px;
+    top: 500px;
+}
+.Court{
+    position: relative;
+    top: 95px;
+    left: 220px;
+}
+.esquerda{
+    position: relative;
+    width: 50px;
+    top: -120px;
+}
+.direita{
+    position: relative;
+    width: 60px;
+    left: 1690px;
+    top: -130px;
+}
+.psg{
+    position: relative;
+    width: 200px;
+    left: 500px;
+    top: -200px;
+    border-radius: 400px;
+}
+.paris{
+    position: relative;
+    left: 480px;
+    top: -210px;
+    color: black;
+}
+.saint{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left: 520px;
+    top: -215px;
+}
+.ins{
+    position: relative;
+    width: 200px;
+    left: 800px;
+    top: -510px;
+    border-radius: 400px;
+}
+.techbl{
+    position: relative;
+    left: 800px;
+    top: -520px;
+    color: black;
+}
+.shh{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left: 860px;
+    top: -525px;
+}
+.winfl{
+    position: relative;
+    width: 200px;
+    left: 1100px;
+    top: -800px;
+    border-radius: 400px;
+}
+.w10{
+    position: relative;
+    left: 1120px;
+    color: rgb(0, 0, 0);
+    top: -830px;
+}
+.nfl{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left:1120px;
+    top: -835px;
+}
+.brav{
+    position: relative;
+    width: 170px;
+    left: 1400px;
+    top: -1100px;
+}
+.vada{
+    position: relative;
+    left: 1400px;
+    top: -1165px;
+    color: black;
+}
+.ada{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left: 1410px;
+    top: -1170px;
+}
+.direita{
+    position: relative;
+    width: 50px;
+    top: -1370px;
+}
+div#white2{
+    position: relative;
+    width: 1800px;
+    height: 400px;
+    background-color: white;
+    left: 2000px;
+    top: -550px;
+    border-radius: 40px
+}
+.every{
+    position: relative;
+    width: 200px;
+    border-radius: 400px;
+    left: 200px;
+    top: 80px;
+}
+.day{
+    position: relative;
+    top: 60px;
+    left: 200px;
+    color: black;
+}
+.shhs{
+    position: relative;
+    left: 280px;
+    top: 50px;
+}
+.perform{
+    position: relative;
+    width: 200px;
+    left: 500px;
+    top: -280px;
+    border-radius: 400px;
+}
+.mance{
+    position: relative;
+    left: 500px;
+    top: -295px;
+    color: black;
+}
+.perf{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left: 590px;
+    top: -305px;
+}
+.run{
+    position: relative;
+    width: 250px;
+    left: 800px;
+    top: -600px;
+    border-radius: 400px
+}
+.flyknit{
+    position: relative;
+    left:830px;
+    top: -610px;
+    color: black;
+}
+.rn{
+    position: relative;
+    color: black;
+    left: 900px;
+    top: -620px;
+}
+.courtphase{
+    position: relative;
+    width: 200px;
+    left: 1150px;
+    top: -920px;
+    border-radius: 400px;
+}
+.phase{
+    position: relative;
+    left: 1150px;
+    top: -990px;
+    color: black;
+}
+.se{
+    position: relative;
+    color: rgb(0, 0, 0);
+    left: 1200px;
+    top: -1000px;
+}
+.jog{
+    position: relative;
+    width: 200px;
+    left: 1400px;
+    top: -1300px;
+    border-radius: 400px;
+}
+.hyb{
+    position: relative;
+    left: 1420px;
+    top: -1300px;
+    color: black;
+}
+.tony{
+    position: relative;
+    left: 1460px;
+    top: -1300px;
+}
+.esquerda{
+    position: relative;
+    top: -1500px;
+    width: 50px;
+    left: 50px;
+}
+div#whiteball{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 40px 40px;
+    top: -545px;
+    left: 900px;
+}
+div#grayball{
+    position: relative;
+    width: 15px;
+    height: 15px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 40px 40px;
+    top: -560px;
+    left: 950px;
+}
+.techicon{
+    position: relative;
+    width: 50px;
+    top: -70px;
+    display: none;
+}
+.techphrase{
+    position: relative;
+    left: 40px;
+    top: -120px;
+    color: black;
+    display: none;
+}
+.shoes{
+    position: relative;
+    width: 50px;
+    top: -90px;
+    display: none;
+}
+.shoe{
+    position: relative;
+    left: 50px;
+    top: -130px;
+    color: black;
+    display: none;
+}
+.shorticon{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: -100px;
+    display: none;
+}
+.short{
+    position: relative;
+    left: 50px;
+    top: -150px;
+    color: black;
+    display: none;
+}
